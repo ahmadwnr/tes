@@ -1,0 +1,12 @@
+SiiNunit
+{
+live_stream_def : _nameless.14d.1d14.92e0 {
+ stream_data: 3
+stream_data[0]: "http://202.147.199.99:8000/stream|Trax FM|Top Hits|ID|128|0"
+stream_data[1]: "http://202.147.199.101:8000/stream|FeMale Radio|Female Hits|ID|128|0"
+stream_data[2]: "http://202.147.199.100:8000/stream|Hard Rock FM|Lifestyle|ID|128|0"
+}
+
+}
+
+ 
